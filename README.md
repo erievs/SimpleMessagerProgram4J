@@ -1,6 +1,10 @@
 # SimpleMessagerProgram4J
 A very simple messaging cleint make as a effort to test how much data is required for my video game. Built using java Sockets! (Part of IslandWorld Testing)
 
+
+Copyright: Erie Valley Software 2022-2023 (However it is MITed so it doesn't matter that much)
+
+
 Feel free to do whatever you want with this code.
 
 
